@@ -1,0 +1,5 @@
+e(-x)-x
+Newton Raphson
+0
+20
+0.0001
